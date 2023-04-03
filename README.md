@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm James Kokol 👋🏼
 
-<!--
-**Jkokol2000/Jkokol2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with a passion for technology matched only by my commitment to efficiency and effectiveness, having previously improved production. I aim to be a team player supporting solutions development through creative thought partnership.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my top skills:
+
+- Javascript
+- Python
+- MongoDB
+- React
+
+
+## Portfolio
+
+Check out my portfolio [here](jameskokol.com). It showcases some of my latest projects and accomplishments.
+
+## LinkedIn
+
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/jkokol/). I share industry news, job opportunities, and insights on my career.
+
+## Resume
+
+Download my resume [here](https://www.jameskokol.com/resume). It includes my work experience, education, and skills.
+
+## Let's Connect
+
+If you have any questions or just want to say hi, feel free to email me at [youremail](mailto:jameskokol2000@gmail.com).
