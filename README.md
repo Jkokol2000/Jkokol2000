@@ -26,4 +26,4 @@ Download my resume [here](https://www.jameskokol.com/resume). It includes my wor
 
 ## Let's Connect
 
-If you have any questions or just want to say hi, feel free to email me at [youremail](mailto:jameskokol2000@gmail.com).
+If you have any questions or just want to say hi, feel free to email me at [jameskokol2000@gmail.com](mailto:jameskokol2000@gmail.com).
